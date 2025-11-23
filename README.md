@@ -5,7 +5,7 @@ A real-time web trading platform that simulates trading activity using WebSocket
 ## Features
 
 - 📈 Real-time stock data updates using Socket.IO
-- 👤 User authentication and session management
+- 👤 User authentication and session management.
 - 🧾 Order placement and history tracking
 - 🗃️ MongoDB for persistent storage
 - 🎨 React-based responsive UI with Vite for fast builds
