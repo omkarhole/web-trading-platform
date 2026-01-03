@@ -1,4 +1,4 @@
-# Web Trading Platform
+# Web Trading Platform  [Link](https://zerodha-c7dx.onrender.com)
 
 A real-time web trading platform that simulates trading activity using WebSockets. Built with the MERN stack (MongoDB, Express, React, Node.js) and Socket.io for live communication.
 
@@ -133,4 +133,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Omkar Hole - omkarhole314@gmail.com
 
-Project Link: [https://github.com/omkarhole/web-trading-platform](https://github.com/omkarhole/web-trading-platform)
+Project Link: [github](https://github.com/omkarhole/web-trading-platform)
